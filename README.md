@@ -1,4 +1,4 @@
-# <h1 align="center">Привет! Меня зовут Никита. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# <h1 align="center">Привет! Меня зовут Никита.
 ## <h3 align="center">Занимаюсь анализом данных.</h3>
 #### Информация обо мне:
  Данный репозиторий содержит мои исследования, как учебные так и практические.
