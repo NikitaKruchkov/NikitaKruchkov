@@ -23,6 +23,8 @@
 - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+  [![codewars](https://www.codewars.com/users/hookjr/badges/large)](https://www.codewars.com/users/username)
+
 
 
 
